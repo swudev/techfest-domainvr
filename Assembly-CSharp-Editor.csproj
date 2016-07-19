@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9CB408B3-7716-1D80-0D30-5A07A69702F7}</ProjectGuid>
+    <ProjectGuid>{5B9B8EFB-1A4A-9A17-1993-E85B5A89A997}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -83,7 +83,7 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
  </Reference>
  <Reference Include="Google.ProtocolBuffers">
- <HintPath>/Users/lpokharel/dev/vr/unity-project/google vr project/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
+ <HintPath>/Users/lpokharel/dev/vr/techfest-domainvr/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -97,7 +97,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{CDF0188F-8643-B854-28C6-8073455AE663}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{8D60D754-C0BE-7977-BA3D-CFFE709AD1F1}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

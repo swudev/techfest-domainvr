@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BCAA9A61-1DD7-0CBF-CFAB-7FD1F0A3DA47}") = "techfest-domainvr", "Assembly-CSharp.csproj", "{8D60D754-C0BE-7977-BA3D-CFFE709AD1F1}"
+EndProject
+Project("{BCAA9A61-1DD7-0CBF-CFAB-7FD1F0A3DA47}") = "techfest-domainvr", "Assembly-CSharp-Editor.csproj", "{5B9B8EFB-1A4A-9A17-1993-E85B5A89A997}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D60D754-C0BE-7977-BA3D-CFFE709AD1F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D60D754-C0BE-7977-BA3D-CFFE709AD1F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D60D754-C0BE-7977-BA3D-CFFE709AD1F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D60D754-C0BE-7977-BA3D-CFFE709AD1F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B9B8EFB-1A4A-9A17-1993-E85B5A89A997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9B8EFB-1A4A-9A17-1993-E85B5A89A997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9B8EFB-1A4A-9A17-1993-E85B5A89A997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9B8EFB-1A4A-9A17-1993-E85B5A89A997}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
